@@ -1,5 +1,5 @@
-#include "algorytm.h"
-#include "array.h"
+﻿#include "algorytm.h"
+#inclu
 <<<<<<< HEAD
 sdasds
 asdas
