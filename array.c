@@ -1,5 +1,14 @@
 #include "array.h"
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+#include <stdio.h>//rtyretry
+=======
+#incl
+>>>>>>> 7817376866a942514c5f56de81b74c5929f0a6e8
+#include <stdlib.h>
+>>>>>>> fd376f63994e00a6c99dff8ef970d70f940bc97f
 
 int **create_tab(int wier, int kol){
     int **tab,i;
