@@ -1,4 +1,4 @@
-#include "algorytm.h"
+﻿#include "algorytm.h"
 #include "array.h"
 <<<<<<< HEAD
 sdasds
@@ -35,7 +35,7 @@ int **algorytm(int **tab, int wier, int kol){
 	
         }
     }
-    delete_tab(&tab, wier);
+   
     return tab_pom;
 }
 
