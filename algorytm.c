@@ -1,4 +1,4 @@
-﻿#include "algorytm.h"
+﻿#include "algorytm.h"//srfaeteaw
 #include "array.h"
 <<<<<<< HEAD
 sdasds
