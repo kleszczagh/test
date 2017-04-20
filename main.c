@@ -1,7 +1,7 @@
-#include "funkcje.h"
+﻿#include "funkcje.h"
 #include <stdio.h>
 #include <stdlib.h>
-
+//sss
 int main(){
 
     struct Wezel* Korzen = NULL;
